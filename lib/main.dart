@@ -11,7 +11,7 @@ import 'package:kiwi/kiwi.dart';
 
 void main() {
   _initDI();
-  runApp(App());
+  runApp(const App());
 }
 
 void _initDI() {
