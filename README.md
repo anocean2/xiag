@@ -1,5 +1,4 @@
 # xiag_test
 
-Тестовое задание для Xiag
-Используется арихтектура Bloc вместе в пакетом flutter_bloc
+Тестовое задание для Xiag. Арихтектура Bloc, flutter_bloc.
 
