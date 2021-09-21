@@ -1,4 +1,4 @@
-# xiag_test
 
-Тестовое задание для Xiag. Арихтектура Bloc, flutter_bloc.
+
+Арихтектура Bloc, flutter_bloc.
 
